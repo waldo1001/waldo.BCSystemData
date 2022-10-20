@@ -21,7 +21,6 @@
     }
   ],
   "contextSensitiveHelpUrl": "https://SystemDataApp.com/help/",
-  "showMyCode": true,
-  "runtime": "6.0",
+  "runtime": "10.0",
   "target": "OnPrem"
 }
